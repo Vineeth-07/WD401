@@ -56,10 +56,15 @@ app.get("/api/result/:input", (req, res) => {
 ![Flow Chart](<Iterative development.jpg>)
 
 Step 1 - **Initial implementation:** Start working on the initial implementation in a feature branch.
+
 Step 2 - **Code review:** Submit a pull request for code review.
+
 Step 3 - **Submit pull request:** Pull request is submitted for code review.
+
 Step 4 - **Feedback:** If feedback not received then merge the code to the develop branch. If feedback is received, engage in iterative development to address feedback.
+
 Step 5 - **Code approval:** Repeat the steps untill the code is approved.
+
 Step 6 - **Merge to develop:** The approved code is merged into the main development branch.
 
 ## Resolving merge conflicts
